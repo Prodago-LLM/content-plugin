@@ -1,10 +1,23 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "Prodago Plugins",
+  "description": "Official Prodago plugins for PrimeRise Content Editor SMEs",
+  "owner": {
+    "name": "Prodago",
+    "email": "support@prodago.com"
+  },
   "plugins": [
     {
       "name": "content-plugin",
-      "source": "github:Prodago-LLM/content-plugin",
-      "description": "Connect Claude to PrimeRise Content Editor — live data access and SME workflow tools"
+      "source": "./",
+      "description": "Connect Claude to PrimeRise Content Editor — live data access and SME workflow tools",
+      "version": "1.0.0",
+      "author": {
+        "name": "Prodago",
+        "email": "support@prodago.com"
+      },
+      "homepage": "https://github.com/Prodago-LLM/content-plugin",
+      "repository": "https://github.com/Prodago-LLM/content-plugin"
     }
   ]
 }
