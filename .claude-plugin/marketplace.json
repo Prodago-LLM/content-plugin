@@ -3,7 +3,7 @@
   "plugins": [
     {
       "name": "content-plugin",
-      "source": { "source": "github", "repo": "prodago/content-plugin" },
+      "source": "github:Prodago-LLM/content-plugin",
       "description": "Connect Claude to PrimeRise Content Editor — live data access and SME workflow tools"
     }
   ]
