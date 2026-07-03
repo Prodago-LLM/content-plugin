@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "Prodago Plugins",
+  "name": "prodago-plugins",
   "description": "Official Prodago plugins for PrimeRise Content Editor SMEs",
   "owner": {
     "name": "Prodago",
