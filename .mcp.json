@@ -1,12 +1,8 @@
 {
   "mcpServers": {
     "primerise-ce": {
-      "command": "npx",
-      "args": [
-        "-y",
-        "mcp-remote",
-        "https://primerisedev.prodago.com/mcp"
-      ]
+      "type": "http",
+      "url": "https://primerisedev.prodago.com/mcp"
     }
   }
 }
