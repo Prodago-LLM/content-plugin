@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "primerise-ce": {
+      "type": "http",
+      "url": "https://primerise.prodago.com/mcp"
+    }
+  }
+}
