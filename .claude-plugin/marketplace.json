@@ -11,13 +11,13 @@
       "name": "content-plugin",
       "source": "./",
       "description": "Connect Claude to PrimeRise Content Editor — live data access and SME workflow tools",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "author": {
         "name": "Prodago",
         "email": "support@prodago.com"
       },
-      "homepage": "https://github.com/Prodago-LLM/content-plugin",
-      "repository": "https://github.com/Prodago-LLM/content-plugin"
+      "homepage": "https://github.com/prodago-dev/content-plugin",
+      "repository": "https://github.com/prodago-dev/content-plugin"
     }
   ]
 }
