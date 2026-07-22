@@ -1,6 +1,6 @@
 {
   "name": "content-plugin",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Connect Claude to PrimeRise Content Editor — live data access and SME workflow tools for data & AI governance content",
   "author": { "name": "Prodago", "url": "https://prodago.com" },
   "skills": ["./skills/"]

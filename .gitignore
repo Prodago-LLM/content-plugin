@@ -2,3 +2,6 @@
 *.iml
 .DS_Store
 Thumbs.db
+
+.claude/
+claude.md

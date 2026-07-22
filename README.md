@@ -17,7 +17,7 @@ Claude plugin for Prodago SMEs working in PrimeRise Content Editor. Bundles live
 | Skill | What it does |
 |-------|-------------|
 | `op-from-activity` | Draft complete OP(s) from a plain-English activity description |
-| `op-from-title` | Draft description and intended results from an OP title |
+| `op-from-title` | Generate a complete OP from a title — description, intended results, context, full IMR/OVP placement, PP phase, and AM mapping |
 | `draft-specification` | Draft CO-specific specification text for an OP–statement mapping |
 | `draft-artefact` | Suggest and draft an artefact for an OP |
 | `find-similar-ops` | Search for existing OPs to avoid duplication before creating new ones |
